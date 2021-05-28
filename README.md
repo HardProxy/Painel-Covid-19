@@ -1,4 +1,4 @@
-# Evolução geotemporal da COVID-19 no Brasil
+# Evolução geotemporal da COVID-19 no Brasil (Em desenvolvimento ...)
 
 ## Etapas
 
